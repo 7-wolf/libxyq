@@ -1,5 +1,5 @@
 # 这里不再更新维护
-我要滚去码云 (www.gitee.com/ulxy)
+我要滚去码云 (https://gitee.com/ulxy)
 # libass
 bass音频库 (http://www.un4seen.com/)
 # libgge
