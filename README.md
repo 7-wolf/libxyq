@@ -1,5 +1,5 @@
-### 已转码云，github不再更新
-www.gitee.com/ulxy
+# github这里不再更
+我要滚去码云了 (www.gitee.com/ulxy)
 # libass
 bass音频库 (http://www.un4seen.com/)
 # libgge
